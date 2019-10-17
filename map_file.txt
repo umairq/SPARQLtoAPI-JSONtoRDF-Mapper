@@ -1,0 +1,12 @@
+dc:contributor URL author
+dc:coverage URL publisher-location
+dc:creator URL author
+dc:date URL indexed
+dc:description URL abstract
+dc:format URL type
+dc:identifier URL DOI
+dc:publisher URL publisher
+dc:rights URL license
+dc:source URL container-title
+dc:title URL title
+dc:type URL type
